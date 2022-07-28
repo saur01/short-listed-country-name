@@ -1,0 +1,35 @@
+let countrys=[
+  {
+    countrymane:'India',
+    capital:'Delhi',
+    population:1604
+  },
+  {
+     countrymane:'Combodia',
+    capital:'Phnom Penh',
+    population:1500
+  },
+  {
+     countrymane:'Indonesia',
+    capital:'Jakarta',
+    population:2200
+  },
+  {
+     countrymane:'Nepal',
+    capital:'Kathmandu',
+    population:3000
+  },
+  {
+     countrymane:'Bhutan',
+    capital:'Thimphu',
+    population:1999
+  }
+  ];
+  
+   if(countrys.population <2000)
+   {
+   
+     return countrysys.countrymane;
+   }
+   
+  
